@@ -1,7 +1,7 @@
 # Veeam-archlinux
-Rebuiled packages of Veeam agent for Arch-based systems
+Rebuiled *.deb packages of Veeam agent for Arch-based systems
 
-Works for Kernel version 6.8
+Works for kernel version 6.8
 
 # Usage
 ```
